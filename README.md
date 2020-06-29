@@ -1,7 +1,5 @@
 # cute masks west philly!
 
-:)
-
 ## To edit the image
 
 1. Locally, name your new image `image.jpeg` (must be exactly that)
